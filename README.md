@@ -10,3 +10,8 @@ pip install -r requirements.txt
 python scrape.py
 ```
 
+GAN Instructions:
+
+Open the google collab notebook and run.
+
+*Dont forget to upload your trainingImages.zip file to google drive before you start training*
