@@ -10,8 +10,8 @@ pip install -r requirements.txt
 python scrape.py
 ```
 
-GAN Instructions:
+Open GAN setup in Google Collab: 
 
-Open the [google collab notebook] (https://colab.research.google.com/github/worthybrae/AI-Architecture/blob/main/SG2_ADA_PyTorch.ipynb\) and run.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jY0xuEbtixLVoVZIcV5r1BIAbv9IncAS?usp=sharing)
 
 *Dont forget to upload your trainingImages.zip file to google drive before you start training*
