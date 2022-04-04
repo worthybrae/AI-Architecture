@@ -6,6 +6,8 @@ Feel free to run the web scraper if you want the most updated images. Make sure 
 Scraper Instructions:
 ```
 cd scraper
+python venv -m env
+source env/bin/activate
 pip install -r requirements.txt
 python scrape.py
 ```
