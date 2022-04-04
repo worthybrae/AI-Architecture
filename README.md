@@ -14,4 +14,6 @@ GAN Instructions:
 
 Open the google collab notebook and run.
 
+"<a href=\"https://colab.research.google.com/github/worthybrae/AI-Architecture/blob/main/SG2_ADA_PyTorch.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+
 *Dont forget to upload your trainingImages.zip file to google drive before you start training*
